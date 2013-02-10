@@ -1,0 +1,14 @@
+C:\Git\My\EFGenericRepo\Base.Service.Test\bin\Debug\Base.Service.Test.dll
+C:\Git\My\EFGenericRepo\Base.Service.Test\bin\Debug\Base.Service.Test.pdb
+C:\Git\My\EFGenericRepo\Base.Service.Test\bin\Debug\Base.Service.dll
+C:\Git\My\EFGenericRepo\Base.Service.Test\bin\Debug\Base.Service.pdb
+C:\Git\My\EFGenericRepo\Base.Service.Test\obj\Debug\Base.Service.Test.csprojResolveAssemblyReference.cache
+C:\Git\My\EFGenericRepo\Base.Service.Test\obj\Debug\Base.Service.Test.dll
+C:\Git\My\EFGenericRepo\Base.Service.Test\obj\Debug\Base.Service.Test.pdb
+C:\Git\My\SimpleLocator\Base.Service.Test\bin\Debug\Base.Service.Test.dll
+C:\Git\My\SimpleLocator\Base.Service.Test\bin\Debug\Base.Service.Test.pdb
+C:\Git\My\SimpleLocator\Base.Service.Test\bin\Debug\Base.Service.dll
+C:\Git\My\SimpleLocator\Base.Service.Test\bin\Debug\Base.Service.pdb
+C:\Git\My\SimpleLocator\Base.Service.Test\obj\Debug\Base.Service.Test.csprojResolveAssemblyReference.cache
+C:\Git\My\SimpleLocator\Base.Service.Test\obj\Debug\Base.Service.Test.dll
+C:\Git\My\SimpleLocator\Base.Service.Test\obj\Debug\Base.Service.Test.pdb

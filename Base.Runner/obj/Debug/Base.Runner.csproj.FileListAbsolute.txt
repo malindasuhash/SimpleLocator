@@ -1,0 +1,16 @@
+C:\Git\My\EFGenericRepo\Base.Runner\bin\Debug\Base.Runner.exe.config
+C:\Git\My\EFGenericRepo\Base.Runner\bin\Debug\Base.Runner.exe
+C:\Git\My\EFGenericRepo\Base.Runner\bin\Debug\Base.Runner.pdb
+C:\Git\My\EFGenericRepo\Base.Runner\bin\Debug\Base.Service.dll
+C:\Git\My\EFGenericRepo\Base.Runner\bin\Debug\Base.Service.pdb
+C:\Git\My\EFGenericRepo\Base.Runner\obj\Debug\Base.Runner.csprojResolveAssemblyReference.cache
+C:\Git\My\EFGenericRepo\Base.Runner\obj\Debug\Base.Runner.exe
+C:\Git\My\EFGenericRepo\Base.Runner\obj\Debug\Base.Runner.pdb
+C:\Git\My\SimpleLocator\Base.Runner\bin\Debug\Base.Runner.exe.config
+C:\Git\My\SimpleLocator\Base.Runner\obj\Debug\Base.Runner.exe
+C:\Git\My\SimpleLocator\Base.Runner\obj\Debug\Base.Runner.pdb
+C:\Git\My\SimpleLocator\Base.Runner\bin\Debug\Base.Runner.exe
+C:\Git\My\SimpleLocator\Base.Runner\bin\Debug\Base.Runner.pdb
+C:\Git\My\SimpleLocator\Base.Runner\bin\Debug\Base.Service.dll
+C:\Git\My\SimpleLocator\Base.Runner\bin\Debug\Base.Service.pdb
+C:\Git\My\SimpleLocator\Base.Runner\obj\Debug\Base.Runner.csprojResolveAssemblyReference.cache

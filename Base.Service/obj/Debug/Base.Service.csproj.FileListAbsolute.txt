@@ -1,0 +1,10 @@
+C:\Git\My\EFGenericRepo\Base.Service\bin\Debug\Base.Service.dll
+C:\Git\My\EFGenericRepo\Base.Service\bin\Debug\Base.Service.pdb
+C:\Git\My\EFGenericRepo\Base.Service\obj\Debug\Base.Service.csprojResolveAssemblyReference.cache
+C:\Git\My\EFGenericRepo\Base.Service\obj\Debug\Base.Service.dll
+C:\Git\My\EFGenericRepo\Base.Service\obj\Debug\Base.Service.pdb
+C:\Git\My\SimpleLocator\Base.Service\bin\Debug\Base.Service.dll
+C:\Git\My\SimpleLocator\Base.Service\bin\Debug\Base.Service.pdb
+C:\Git\My\SimpleLocator\Base.Service\obj\Debug\Base.Service.csprojResolveAssemblyReference.cache
+C:\Git\My\SimpleLocator\Base.Service\obj\Debug\Base.Service.dll
+C:\Git\My\SimpleLocator\Base.Service\obj\Debug\Base.Service.pdb
