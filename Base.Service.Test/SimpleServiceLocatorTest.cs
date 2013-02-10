@@ -27,7 +27,7 @@ namespace Base.Service.Test
             Assert.AreEqual(typeof(IDummy), internalItems.Services.First().Key, "Type should be of IDummy type.");
             Assert.IsNotNull(internalItems.Services.First().Value, "Object should not be null.");
             Assert.AreSame(t, internalItems.Services.First().Value, "Should return the same item.");
-        }
+        } 
 
         [TestMethod]
         public void Set_RegisteringSameItemShouldOverwriteExisting()
